@@ -11,7 +11,7 @@ public class Password_Check {
 			System.out.println("Enter Password: ");
 			password = sc.nextLine();
 		}
-		System.out.println("Access Granted.");
+		System.out.println("Access Granted, Congrats...");
 		sc.close();
 
 	}
